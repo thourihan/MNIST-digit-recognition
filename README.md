@@ -1,6 +1,6 @@
 # MNIST Digit Recognition
 
-This repository contains an implementation of a Convolutional Neural Network (CNN) using TensorFlow and Keras for recognizing handwritten digits. The model is trained on the [MNIST dataset](http://yann.lecun.com/exdb/mnist/), which consists of images of handwritten digits. A web interface for the model is created using Gradio.
+This repository contains an implementation of a Convolutional Neural Network (CNN) using TensorFlow and Keras for recognizing handwritten digits. The model is trained on the MNIST dataset, which consists of images of handwritten digits. A web interface for the model is created using Gradio.
 
 ## Project Structure
 
